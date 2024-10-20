@@ -1,0 +1,42 @@
+#pano {
+    -fx-background-color: red;
+}
+#pano2 {
+    -fx-background-color: yellow;
+    -fx-background-radius: 20px;
+}
+#pano3 {
+    -fx-background-color: orange;
+    -fx-background-radius: 20px;
+}
+#titulo {
+    -fx-text-fill: #fff;
+    -fx-font-size: 25px;
+    -fx-font-weight: bolder;
+}
+#cadastro {
+    -fx-text-fill: #fff;
+    -fx-font-size: 20px;
+    -fx-font-weight: bolder;
+}
+#pedeEmail, #pedeSenha {
+    -fx-text-fill: #fff;
+    -fx-font-size: 20px;
+    -fx-font-weight: bolder;
+}
+#emailInput, #senhaInput {
+    -fx-text-fill: black;
+    -fx-font-size: 17.5px;
+    -fx-font-weight: bolder;
+    -fx-background-radius: 10px;
+}
+#buttonCadastro {
+    -fx-background-color: red;
+    -fx-text-fill: #fff;
+    -fx-background-radius: 20px;
+    -fx-font-size: 22.5px;
+    -fx-font-weight: bold;
+}
+#buttonCadastro:hover {
+    -fx-background-color: green;
+}

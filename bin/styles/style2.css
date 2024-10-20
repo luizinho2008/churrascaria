@@ -1,0 +1,43 @@
+#root {
+    -fx-background-color: red;
+}
+#welcome {
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+}
+#pedeEmail, #pedeSenha {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+#email, #senha {
+    -fx-font-size: 22.5px;
+    -fx-font-weight: bold;
+}
+#pano1 {
+    -fx-background-color: yellow;
+    -fx-background-radius: 20px;
+}
+#pano2 {
+    -fx-background-color: yellow;
+    -fx-background-radius: 20px;
+}
+#pano3 {
+    -fx-background-color: yellow;
+    -fx-background-radius: 20px;
+}
+#pano4 {
+    -fx-background-color: orange;
+    -fx-background-radius: 20px;
+}
+#agradecimento {
+    -fx-font-size: 22.5px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+#button {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+#button:hover {
+    -fx-background-color: gray;
+}
